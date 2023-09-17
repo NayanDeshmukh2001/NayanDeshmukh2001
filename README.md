@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nayan Deshmukh</h1>
 <h3 align="center">Web Developer seeking full-time job in React Js | Java Script | Frontend | Working Freelance Web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayandeshmukh2001" alt="nayandeshmukh2001" /></a> </p>
+
 
 - 🌱 I’m currently learning **JavaScript and React**
 
